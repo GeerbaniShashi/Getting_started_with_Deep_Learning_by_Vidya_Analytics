@@ -1,1 +1,1 @@
-# Getting_started_with_Deep_Learning_by_Vidya_Analytics
+# Getting_started_with_Deep_Learning_by_Vidhya_Analytics
